@@ -9,7 +9,7 @@ bot = telebot.TeleBot(TOKEN)
 
 post_text = ""
 sponsors = []
-join_button = {"text": "🚀 Вступити в команду", "url": "https://t.me/your_join_link"}
+join_button = {"text": "🚀 Вступити в команду", "url": "https://t.me/+OfVUazA1R0Y3ZjYy"}
 
 def create_keyboard():
     keyboard = InlineKeyboardMarkup()
